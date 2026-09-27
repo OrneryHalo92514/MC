@@ -1,2 +1,3 @@
 # MC
 用于收集服务器以及群聊的issues
+在仓库或actions或issues有变动时QQ群:1034667022会给提示
